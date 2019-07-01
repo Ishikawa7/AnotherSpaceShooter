@@ -13,12 +13,12 @@ MAIN MENU:
 GAMEPLAY:
 ● Score               ● PowerUp/Shop/Player Bonus     ● Time game
 ● Enemies             ● Difficulty levels             ● Increasing difficulty
-● AI                  ● Local Multiplayer
+● AI                  ● Local Multiplayer             ● Pause Menu
 
-STRUCTURES:
+STRUCTURES AND DESIGN PATTERNS:
 ● PlayerPrefs         ● Singleton                     ● Coroutines
 ● Enums               ● Static Classes                ● Generics
-● Method overload     ● Presence of inheritance
+● Method overload     ● Presence of inheritance       ● Reflection
 ● Interfaces          ● Delegates
 
 EFFECTS AND AUDIO:
@@ -26,4 +26,4 @@ EFFECTS AND AUDIO:
 ● Soundtrack          ● Other sounds
 
 EXTRA:
-● Particles
+● Particles           ● Postprocessing Effects
